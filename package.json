@@ -31,7 +31,7 @@
     "hapi": ">=8.0.0",
     "minimist": "^0.1.0",
     "mocha": "~1.18.2",
-    "moment": "~2.5.1",
+    "moment": "~2.27.0",
     "simple-ansi": "0.0.1",
     "supertest": "~0.8.3"
   },
